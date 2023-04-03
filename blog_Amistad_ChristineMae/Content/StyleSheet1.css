@@ -1,0 +1,81 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+
+}
+.navbar{
+    background-color: black!important;
+}
+.container .row .col1, .container .row .col2 {
+    height: 500px;
+    margin-top: 10px;
+    box-shadow: black 5px;
+}
+.container .row .col7 {
+    margin-top: 10px;
+}
+.container .row .col1 p {
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.container .row .col1 h1 {
+    letter-spacing: 5px;
+    font-size: 70px;
+    font-family:'Franklin Gothic';
+    font-weight: 1000;
+    margin-top:30px;
+}
+.container .row .col2 img {
+        width: 750px;
+        height: 500px;
+}
+.container .row .col3, .container .row .col4, .container .row .col5, .container .row .col6{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.col3 img {
+    height: 500px;
+    width: 350px
+}
+.col4 img{
+    height: 500px;
+    width: 350px
+}
+.col5 img {
+    height: 500px;
+    width: 350px
+}
+.col6 img {
+    height: 500px;
+    width: 740px
+}
+.container .row .col7 h1 {
+    letter-spacing: 5px;
+    font-size: 70px;
+    font-family: 'Franklin Gothic';
+    font-weight: 1000;
+    margin-top: 40px;
+}
+.container .row .col8, .container .row .col9, .container .row .col10{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.col8 img {
+    height: 450px;
+    width: 350px
+}
+
+.col9 img {
+    height: 450px;
+    width: 350px
+}
+.col10 img {
+    height: 450px;
+    width: 350px
+}
+.card {
+    background-color: black !important;
+    color: white;
+    margin-top: 50px;
+}
